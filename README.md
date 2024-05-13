@@ -1,23 +1,31 @@
-## 💜 Olá, meu nome é Lucas!
+# 💜 Olá, meu nome é Lucas!
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="420px" max-width="420px" width="420px" align="right">
+
 <p align="left"> 
-  <i>Minha formação abrange uma variedade de campos e atualmente estou buscando<br>
-  me especializar na área de tecnologia com ênfase em programação.<br>
-  Atualmente como bolsista no Laboratório de Políticas Públicas do Turismo<br>
-  do Instituto Federal do Ceará, estou engajado em grupos de pesquisas e projetos<br>
-  que visam melhorar e promover o turismo de forma sustentável. Minha jornada<br>
-  acadêmica e profissional reflete um compromisso com o aprendizado contínuo<br>
-  e o desenvolvimento de habilidades em diversas áreas, destacando minha versatilidade<br>
-  e capacidade de se adaptar a diferentes contextos e desafios</i><br>
-  Graduado em <b>Design Gráfico</b> e <b>Marketing</b>.
+  <i>Minha formação abrange uma variedade de campos e atualmente estou buscando
+  me especializar na área de tecnologia com ênfase em programação.
+  Atualmente como bolsista no Laboratório de Políticas Públicas do Turismo
+  do Instituto Federal do Ceará, estou engajado em grupos de pesquisas e projetos
+  que visam melhorar e promover o turismo de forma sustentável. Minha jornada
+  acadêmica e profissional reflete um compromisso com o aprendizado contínuo
+  e o desenvolvimento de habilidades em diversas áreas, destacando minha
+  versatilidade e capacidade de se adaptar a diferentes contextos e desafios</i><br>
 </p>
 
 <p align="left">
+  Graduado em <b>Design Gráfico</b> e <b>Marketing</b>.
   <b>MBA em Marketing digital</b> e <b>Especialista em Turismo Sustentável</b>.<br>
   Estudante de <b>Análise e Desenvolvimento de sistemas</b> e <b>Turismo</b>.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  ☕  Skills:
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
+  <img src="https://img.shields.io/badge/PYTHON-14354C?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PANDAS-20232A?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
 <p align="left">
@@ -47,21 +55,6 @@
   <img src="https://img.shields.io/badge/Lattes-004076?style=flat-square&logoColor=white" alt="Currículo Lattes"/></a>
 </p>
 
-[![card](https://github-readme-stats.vercel.app/api?username=lucasfcomaru&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🚀 Minhas skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfcomaru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-- 👋 Hi, I’m @lucasfcomaru
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-lucasfcomaru/lucasfcomaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Top linguagens
+<img src="https://github-readme-stats.vercel.app/api?username=lucasfcomaru&theme=default&show_icons=true" align="left" alt="Status Github"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfcomaru&layout=compact" align="left" alt="Linguagens mais utilizadas"/>
