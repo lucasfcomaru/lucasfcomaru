@@ -1,6 +1,6 @@
 # 💜 Olá, meu nome é Lucas!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="420px" max-width="420px" width="420px" align="right">
+<img src="computer-illustration.png" alt="ilustração de um computador" min-width="420px" max-width="420px" width="420px" align="right">
 
 <p align="left"> 
   <i>Minha formação abrange uma variedade de campos e atualmente estou buscando
