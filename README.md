@@ -23,7 +23,12 @@
   ☕  Skills:
   ![Static Badge](https://img.shields.io/badge/React-%233A5E70?style=for-the-badge&logo=react)
 
+  <p>
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,python,pandas,js,react,git,github,npm,figma" />
+</p>
   
+  <img src="https://img.shields.io/badge/CSS3-%23612CF0?style=for-the-badge&logo=CSS" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=Javascript" alt="Javascript"/>
   <img src="https://img.shields.io/badge/React-%233A5E70?style=for-the-badge&logo=react" alt="React"/>
 
   
