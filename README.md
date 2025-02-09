@@ -53,7 +53,7 @@
   <a href="wa.me/85997734839" target="_blank" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
   <a href="http://instagram.com/lucasfcomaru" target="_blank" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instragram.com/proflucascomaru" alt="Instagram"/></a>
   <a href="http://lattes.cnpq.br/4106499559915315" target="_blank" title="Currículo Lattes">
   <img src="https://img.shields.io/badge/Lattes-004076?style=flat-square&logoColor=white" alt="Currículo Lattes"/></a>
 </p>
