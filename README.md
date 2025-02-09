@@ -16,13 +16,17 @@
 <p align="left">
   Graduado em <b>Design Gráfico</b> e <b>Marketing</b>.
   <b>MBA em Marketing digital</b> e <b>Especialista em Turismo Sustentável</b>.<br>
-  Estudante de <b>Análise e Desenvolvimento de sistemas</b> e <b>Turismo</b>.
+  Graduando em <b>Engenharia de Telecomunicações</b> e <b>Análise e Desenvolvimento de sistemas</b>.
 </p>
 
 <p align="left">
   ☕  Skills:
+  ![Static Badge](https://img.shields.io/badge/React-%233A5E70?style=for-the-badge&logo=react)
+
+  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
   <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
   <img src="https://img.shields.io/badge/PYTHON-14354C?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PANDAS-20232A?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
