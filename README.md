@@ -13,6 +13,7 @@
   versatilidade e capacidade de se adaptar a diferentes contextos e desafios</i><br>
 </p>
 
+## 📜 Formação:
 <p align="left">
   Graduado em <b>Design Gráfico</b> e <b>Marketing</b>.
   <b>MBA em Marketing digital</b> e <b>Especialista em Turismo Sustentável</b>.<br>
@@ -39,7 +40,7 @@
 </p>
 
 <!-- ícones contatos -->
-## 💌 Entre em contato comigo: ⤵️
+## 💌 Entre em contato comigo:
 <p align="left">
   <a href="mailto:lukscomaru@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
