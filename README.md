@@ -38,11 +38,8 @@
   <img src="https://img.shields.io/badge/Git%20Hub-grey?style=for-the-badge&logo=github" alt="GitHub"/>
 </p>
 
-<p align="left">
-  💌 Entre em contato comigo: ⤵️
-</p>
-
 <!-- ícones contatos -->
+## 💌 Entre em contato comigo: ⤵️
 <p align="left">
   <a href="mailto:lukscomaru@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
