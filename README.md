@@ -24,7 +24,7 @@
   ![Static Badge](https://img.shields.io/badge/React-%233A5E70?style=for-the-badge&logo=react)
 
   
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/React-%233A5E70?style=for-the-badge&logo=react" alt="React"/>
 
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
