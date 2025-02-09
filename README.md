@@ -19,34 +19,25 @@
   Graduando em <b>Engenharia de Telecomunicações</b> e <b>Análise e Desenvolvimento de sistemas</b>.
 </p>
 
+<!-- ícones skills -->
 <p align="left">
   ☕  Skills:
   ![Static Badge](https://img.shields.io/badge/React-%233A5E70?style=for-the-badge&logo=react)
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,python,pandas,js,react,git,github,npm,figma" />
-</p>
-  
-  <img src="https://img.shields.io/badge/CSS3-%23612CF0?style=for-the-badge&logo=CSS" alt="CSS"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/PyCharm-28b8a0?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Adobe-ed1000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=000000" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%23612CF0?style=for-the-badge&logo=CSS" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=Javascript" alt="Javascript"/>
+  <img src="https://img.shields.io/badge/Node%20JS-green?style=for-the-badge&logoColor=FFFFFF" alt="Node Js"/>
+  <img src="https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm&logoColor=FFFFFF" alt="NPM"/>
   <img src="https://img.shields.io/badge/React-%233A5E70?style=for-the-badge&logo=react" alt="React"/>
-
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
-  <img src="https://img.shields.io/badge/PYTHON-14354C?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PANDAS-20232A?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
-
-<p align="left">
-  💼 Ferramentas:
-  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Visual_studio-23a9f2?style=flat-square&logo=visual%20studio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/PyCharm-28b8a0?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/Adobe-ed1000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe"/>
-
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=pandas" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Git-292929?style=for-the-badge&logo=git" alt="Git"/>
+  <img src="https://img.shields.io/badge/Git%20Hub-grey?style=for-the-badge&logo=github" alt="GitHub"/>
 </p>
 
 <p align="left">
